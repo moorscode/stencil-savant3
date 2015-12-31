@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 This plugin enables the use of the Savant 3 template engine in combination with the Stencil plugin.
 
 == Description ==
-The Stencil: Savant 3 Implementation enables the use of the Stencil template engine in your themes.
+The Stencil: Savant 3 Implementation enables the use of the Savant 3 template engine in your themes.
 
 For specific details about how your theme should be set up, please see the installation instructions of the Stencil plugin.
 You can see a working sample theme at <https://github.com/moorscode/stencil-sample-theme-savant>.
